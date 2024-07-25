@@ -119,16 +119,6 @@ Container(
 )
 ```
 
-### 9. Transform
-
-Apply a transformation before painting the container.
-
-```dart
-Container(
-  transform: Matrix4.rotationZ(0.1),
-  child: Text('Rotated Text'),
-)
-```
 
 ## Common Gotchas
 
